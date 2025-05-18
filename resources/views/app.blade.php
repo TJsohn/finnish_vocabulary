@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Name and Color Manager</title>
+    <title>Name/Color and Finnish Vocabulary</title>
     @viteReactRefresh
     @vite(['resources/js/app.jsx', 'resources/css/app.css'])
 </head>
