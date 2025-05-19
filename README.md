@@ -13,4 +13,4 @@ Our job is to modify the Name and Color Manager app to:
 
 ### Result
 
--   Achieved to make both apps working but the Finnish Vocabulary API key was limited, so ended up failing to fetch more words while fixing.
+-   Achieved to make both apps working and especially fetching Finnish Vocabulary data and making it a flashcard app: It had limitations to fetch data in a free plan, so I had to sign up with another email to film how it works.
